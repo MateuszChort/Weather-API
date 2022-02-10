@@ -29,7 +29,7 @@ if __name__ == '__main__':
     print('Pogodynka')
     main()
 
-user_api = '4b3c45f1128c27d62c6d04f784696f2c'
+user_api = 'YOUR API'
 location = input("Enter the city name (all over the world): ")
 
 complete_api_link = "https://api.openweathermap.org/data/2.5/weather?q=" + \
